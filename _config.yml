@@ -2,9 +2,9 @@ title: Agnes Monica Pramawati # your name (or website title) here
 logo: "/images/Foto.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Hello, my name is Agnes Monica Pramawati. I'm from Duta Wacana Christian University.<br>
   Second description 
-  <br><br>
+  <br>Mahasiswa Sistem Informasi 2020<br>
   <a href="https://www.linkedin.com/in/agnesmonica17/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
